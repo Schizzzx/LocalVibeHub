@@ -23,7 +23,7 @@ backend/.env
 Thumbs.db
 
 # Database dumps (если будут)
-*.sql
+# *.sql
 *.sqlite
 
 # VSCode settings (необязательно)
@@ -35,3 +35,4 @@ coverage/
 # System folders
 __MACOSX
 "localvibeLastVersion.zip" 
+"frontend/src.zip" 
