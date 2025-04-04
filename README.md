@@ -104,7 +104,7 @@ Runs on: `http://localhost:5173/`
 
 ---
 
-## 🧭 Application Structure
+##  Application Structure
 
 | Feature         | Route                     |
 |-----------------|---------------------------|
@@ -143,14 +143,14 @@ WHERE id = 4;
 
 ---
 
-## 📬 Notifications
+##  Notifications
 
 - The system sends both internal and email notifications.
 - Email delivery requires working SMTP credentials (preferably via MailerSend).
 
 ---
 
-## 👤 Author
+##  Author
 
 This project was developed by **Grigory Ivashkin**,  
 a student of the **University of Latvia**,  
